@@ -7,3 +7,7 @@ public interface PexesoRepository {
     public HerniPlocha findOne(Long id);
     public HerniPlocha save(HerniPlocha plocha);
 }
+
+public metodaNaZkousku(){
+ int totolzesmazat;   
+}
